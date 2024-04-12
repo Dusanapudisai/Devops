@@ -30,13 +30,13 @@
 
   <build>
     <finalName>card</finalName>
-    <pluginManagement><!-- lock down plugins versions to avoid using Maven defaults (may be moved to parent pom) -->
+    http://3.129.16.58:8081/repository/Sample-relese/
       <plugins>
         <plugin>
           <artifactId>maven-clean-plugin</artifactId>
           <version>3.0.0</version>
         </plugin>
-        <!-- see http://maven.apache.org/ref/current/maven-core/default-bindings.html#Plugin_bindings_for_war_packaging -->
+        http://3.129.16.58:8081/repository/Sample-snapchat/
         <plugin>
           <artifactId>maven-resources-plugin</artifactId>
           <version>3.0.2</version>
